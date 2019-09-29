@@ -15,4 +15,11 @@ end
 def colors_in_the_rainbow
   colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
   next_color = "violet"
-  using_push = next_color
+  updated_array = using_push
+
+end
+
+
+
+  
+  
