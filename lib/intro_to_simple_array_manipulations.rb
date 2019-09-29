@@ -1,4 +1,4 @@
-def colors_in_the_rainbow
+def 
   colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
     next_color = "magenta"
     updated_array = using_push(colors_in_the_rainbow, next_color)
