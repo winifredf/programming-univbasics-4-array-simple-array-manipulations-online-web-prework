@@ -11,3 +11,6 @@ def colors_in_the_rainbow
 
 end
 
+
+def colors_in_the_rainbow
+  
