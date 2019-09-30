@@ -21,4 +21,5 @@ end
 
 
 
-def pop_with_args(dog_breeds) = 
+def pop_with_args(dog_breeds) = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
+  
