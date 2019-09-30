@@ -74,4 +74,11 @@ end
 
 
 
-def using_delete()
+def using_delete(instructors) = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+    no_offense_steven = using_delete(instructors, "Steven")
+  end
+end
+
+
+
+def using_delete_at()
