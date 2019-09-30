@@ -60,4 +60,11 @@ def using_insert(list_of_programming_languages) = ["Ruby", "JavaScript", "Java",
 end
 
 
-def using_uniq () = 
+def using_uniq (haircuts) = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
+    new_array = using_uniq(haircuts)
+
+end
+
+
+
+def using_flatten()
