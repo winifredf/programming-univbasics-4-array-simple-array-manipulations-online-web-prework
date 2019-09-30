@@ -14,4 +14,5 @@ def using_unshift(burrough_in_nyc) = [Brooklyn, Queens, Manhattan, Bronx], new_n
 end
 
 
-def using_pop(continents) = 
+def using_pop(continents) = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
+  continents()
