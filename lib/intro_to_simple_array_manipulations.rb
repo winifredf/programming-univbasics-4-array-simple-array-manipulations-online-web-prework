@@ -67,4 +67,11 @@ end
 
 
 
-def using_flatten()
+def using_flatten(instruments) = ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
+     flat_array = using_flatten(instruments)
+
+end
+
+
+
+def using_delete()
