@@ -28,6 +28,6 @@ end
 
 
 
-def using.shift()
+def using.shift(my_favorite_cities) = 
 
 
