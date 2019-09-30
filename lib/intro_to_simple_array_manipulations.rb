@@ -60,4 +60,4 @@ def using_insert(list_of_programming_languages) = ["Ruby", "JavaScript", "Java",
 end
 
 
-
+def using_uniq ()
